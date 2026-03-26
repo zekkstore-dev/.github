@@ -4,7 +4,7 @@
   <br>
   <a href="https://git.io/typing-svg">
     <!-- Tema Kuning (EAB308) dan Biru (3B82F6) -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=EAB308;3B82F6;EAB308&center=true&vCenter=true&width=800&lines=👋+Welcome!+%7C+Selamat+Datang!;🎨+UI%2FUX+%26+Frontend+Development;⚙️+Backend+Development+with+JS+%26+Laravel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=EAB308%3B3B82F6%3BEAB308&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Welcome!+%7C+Selamat+Datang!%3B%F0%9F%8E%A8+UI%2FUX+%26+Frontend+Development%3B%E2%9A%99%EF%B8%8F+Backend+Development+with+JS+%26+Laravel" alt="Typing SVG" />
   </a>
 </div>
 

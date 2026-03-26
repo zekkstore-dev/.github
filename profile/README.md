@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <a href="#-bahasa-indonesia">🇮🇩 Bahasa Indonesia</a> • 
-  <a href="#-english">🇬🇧 English</a>
+  <a href="#-">id Bahasa Indonesia</a> • 
+  <a href="#--1">en English</a>
 </p>
 
 ---
@@ -36,7 +36,7 @@ Dengan pendekatan yang berorientasi pada detail (*pixel-perfect*), kami memastik
 
 ---
 
-## 🇬🇧 <English />
+## En <English />
 
 <div align="center">
   <br>
