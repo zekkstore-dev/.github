@@ -4,18 +4,18 @@
   <br>
   <a href="https://git.io/typing-svg">
     <!-- Tema Kuning (EAB308) dan Biru (3B82F6) -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=EAB308;3B82F6;EAB308&center=true&vCenter=true&width=800&lines=👋+Welcome!+%7C+Selamat+Datang!;🎨+UI%2FUX+%26+Frontend+Development;⚙️+Backend+Development+with+JS+%26+Laravel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=EAB308%3B3B82F6%3BEAB308&center=true&vCenter=true&width=800&lines=Welcome!+%7C+Selamat+Datang!%3BUI%2FUX+%26+Frontend+Development%3BBackend+Development+with+JS+%26+Laravel" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="#-">id Bahasa Indonesia</a> • 
-  <a href="#--1">en English</a>
+  <a href="#id">id | Bahasa Indonesia</a> • 
+  <a href="#en">en | English</a>
 </p>
 
 ---
 
-## 🇮🇩 <Bahasa Indonesia />
+## id <Bahasa Indonesia />
 
 <div align="center">
   <br>
@@ -36,7 +36,7 @@ Dengan pendekatan yang berorientasi pada detail (*pixel-perfect*), kami memastik
 
 ---
 
-## En <English />
+## en <English />
 
 <div align="center">
   <br>
