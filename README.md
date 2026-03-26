@@ -128,16 +128,17 @@ Jika proyek *open-source*, template, atau portofolio ini pernah membantu Anda, j
 
 <!-- Kustomisasi Tema Sesuai Referensi (Pink & Cyan) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zekkstore&show_icons=true&title_color=F97583&text_color=A9B1D6&icon_color=2AC3DE&bg_color=1A1B27&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zekkstore&bg_color=1A1B27&ring=F97583&fire=F97583&currStreakNum=2AC3DE&currStreakLabel=2AC3DE&sideNums=F97583&sideLabels=F97583&dates=A9B1D6&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZekkCode&show_icons=true&title_color=F97583&text_color=A9B1D6&icon_color=2AC3DE&bg_color=1A1B27&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekkCode&bg_color=1A1B27&ring=F97583&fire=F97583&currStreakNum=2AC3DE&currStreakLabel=2AC3DE&sideNums=F97583&sideLabels=F97583&dates=A9B1D6&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <br>
-  <!-- Trophy Graph -->
+  <!-- Trophy Graph (Currently Down/503 from Vercel)
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zekkstore&theme=tokyonight&no-bg=true&column=7&margin-w=15" alt="Trophy Graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ZekkCode&theme=tokyonight&no-bg=true&column=7&margin-w=15" alt="Trophy Graph" />
   </a>
+  -->
 </div>
 
 <div align="center">

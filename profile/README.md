@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Tema Kuning & Biru (Latar Biru, Teks Kuning) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=zekkstore-dev&fontSize=70&fontColor=EAB308&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=3B82F6" alt="Zekkstore Dev Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=ZEKKSTORE-DEV%20&fontSize=70&fontColor=EAB308&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=3B82F6" alt="Zekkstore Dev Header" />
   <br>
   <a href="https://git.io/typing-svg">
     <!-- Tema Kuning (EAB308) dan Biru (3B82F6) -->
@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <a href="#id">id | Bahasa Indonesia</a> • 
-  <a href="#en">en | English</a>
+  <a href="#id-">id | Bahasa Indonesia</a> • 
+  <a href="#en-">en | English</a>
 </p>
 
 ---
@@ -114,13 +114,11 @@ Jika proyek *open-source*, template, atau portofolio ini pernah membantu Anda, j
 
 <div align="center">
   <br>
+  <a href="https://github.com/ZekkCode"><img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/zakariamp"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/zekksparow"><img src="https://img.shields.io/badge/Instagram-EAB308?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://wa.me/62881081772005"><img src="https://img.shields.io/badge/WhatsApp-3B82F6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-EAB308?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://tiktok.com/@zekksparow"><img src="https://img.shields.io/badge/TikTok-3B82F6?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/X_Twitter-EAB308?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Dribbble-3B82F6?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
   <a href="https://youtube.com/@zekkstore"><img src="https://img.shields.io/badge/YouTube-EAB308?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </div>
 
@@ -128,16 +126,17 @@ Jika proyek *open-source*, template, atau portofolio ini pernah membantu Anda, j
 
 <!-- Kustomisasi Tema Sesuai Referensi (Pink & Cyan) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zekkstore&show_icons=true&title_color=F97583&text_color=A9B1D6&icon_color=2AC3DE&bg_color=1A1B27&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zekkstore&bg_color=1A1B27&ring=F97583&fire=F97583&currStreakNum=2AC3DE&currStreakLabel=2AC3DE&sideNums=F97583&sideLabels=F97583&dates=A9B1D6&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZekkCode&show_icons=true&title_color=F97583&text_color=A9B1D6&icon_color=2AC3DE&bg_color=1A1B27&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekkCode&bg_color=1A1B27&ring=F97583&fire=F97583&currStreakNum=2AC3DE&currStreakLabel=2AC3DE&sideNums=F97583&sideLabels=F97583&dates=A9B1D6&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <br>
-  <!-- Trophy Graph -->
+  <!-- Trophy Graph (Currently Down/503 from Vercel)
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zekkstore&theme=tokyonight&no-bg=true&column=7&margin-w=15" alt="Trophy Graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ZekkCode&theme=tokyonight&no-bg=true&column=7&margin-w=15" alt="Trophy Graph" />
   </a>
+  -->
 </div>
 
 <div align="center">
@@ -150,4 +149,7 @@ Jika proyek *open-source*, template, atau portofolio ini pernah membantu Anda, j
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=Zekkstore&label=Profile%20views&color=EAB308&style=flat" alt="Profile views" />
+  <br>
+  <br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=THANK%20YOU!!!&fontSize=70&fontColor=EAB308&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=3B82F6" alt="Zekkstore Dev Header" />
 </div>
